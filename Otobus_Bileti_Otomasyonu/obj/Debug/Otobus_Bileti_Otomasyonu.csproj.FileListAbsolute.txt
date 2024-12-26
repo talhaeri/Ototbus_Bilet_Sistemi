@@ -1,0 +1,154 @@
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.exe.config
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.exe
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.pdb
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Bilet_Satis.resources
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Form1.resources
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Guzergah.resources
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Otobus.resources
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Properties.Resources.resources
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Sefer.resources
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.exe
+C:\Users\asus\source\repos\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.pdb
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.exe.config
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.exe
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.pdb
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Bilet_Satis.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Form1.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Guzergah.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Otobus.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Properties.Resources.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Sefer.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.exe
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.pdb
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Giris.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yetkilendir.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Kullanici_islemleri.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yetki_Kaldir.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Silinen_Biletler.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yedekle.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yedekten_Don.resources
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.dll
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.pdb
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.xml
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\asus\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_B.70FD6655.Up2Date
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.exe.config
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.exe
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.xml
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Bilet_Satis.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Form1.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Giris.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Guzergah.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Silinen_Biletler.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yedekle.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yedekten_Don.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yetkilendir.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Otobus.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Properties.Resources.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Sefer.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Kullanici_islemleri.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yetki_Kaldir.resources
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_B.70FD6655.Up2Date
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.exe
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.pdb
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.exe.config
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.exe
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.pdb
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.dll
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.pdb
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.xml
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Bilet_Satis.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Form1.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Giris.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Guzergah.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Silinen_Biletler.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yedekle.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yedekten_Don.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yetkilendir.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Otobus.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Properties.Resources.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Sefer.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Kullanici_islemleri.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yetki_Kaldir.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_B.70FD6655.Up2Date
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.exe
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.pdb
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Bilet_Satis.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Form1.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Giris.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Guzergah.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Silinen_Biletler.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yedekle.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yedekten_Don.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yetkilendir.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Otobus.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Properties.Resources.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Sefer.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Kullanici_islemleri.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yetki_Kaldir.resources
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.exe
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.pdb
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.exe.config
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.exe
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.pdb
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.dll
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.pdb
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.xml
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Ceren\Desktop\Otobus_Bileti_Otomasyonu74\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_B.70FD6655.Up2Date
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.exe.config
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.exe
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\Otobus_Bileti_Otomasyonu.pdb
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.dll
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.pdb
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.xml
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Bilet_Satis.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Form1.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Giris.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Guzergah.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Silinen_Biletler.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yedekle.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yedekten_Don.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yetkilendir.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Otobus.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Properties.Resources.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Sefer.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Kullanici_islemleri.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.Yetki_Kaldir.resources
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_B.70FD6655.Up2Date
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.exe
+C:\Users\talha\OneDrive\Masaüstü\Otobus_Bileti_Otomasyonu\Otobus_Bileti_Otomasyonu\obj\Debug\Otobus_Bileti_Otomasyonu.pdb
